@@ -1,0 +1,4 @@
+fibo
+====
+
+ fibonacci sequence implementation 
